@@ -1,2 +1,2 @@
 # finsight
-AI-powere, goal-driven , finance-tracker
+AI-powereD, goal-driven finance-tracker
